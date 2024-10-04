@@ -147,11 +147,3 @@ Once the server is running, you can access the GraphQL API at `http://localhost:
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the ISC License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to modify any sections to better fit your project or preferences!
